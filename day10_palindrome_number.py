@@ -6,3 +6,5 @@ class Solution:
         
         # Convert to string and check if reversed is same
         return str(x) == str(x)[::-1]
+
+#test comment
